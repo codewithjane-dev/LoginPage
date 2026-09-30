@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.Submit {
+  @apply w-[220px] h-[50px] bg-purple-800 rounded-full text-white m-auto cursor-pointer;
+}
+
+.gray {
+  @apply bg-gray-200 text-black;
+}
